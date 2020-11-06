@@ -1,4 +1,5 @@
 require 'spec_helper'
+require '../lib/catch_phrases.rb'
 
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
